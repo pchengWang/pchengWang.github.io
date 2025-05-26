@@ -12,4 +12,6 @@ Hi there! I am Pengcheng Wang, currently a first-year MSCS student at the Univer
 
 Before UIUC, I completed my Bachelor of Applied Science in Computer Engineering with a Minor in AI Engineering at the University of Toronto. During my undergraduate studies, I was fortunate to be guided by Dr. Alistair Johnson in healthcare AI research.
 
-My current research interests center on Generative Models, with a particular focus on Large Language Models, Reinforcement Learning (Post-Training), Multimodality, and their application in Healthcare. Welcome to connect if you would like to collaborate with me. You can find my CV here: [Pengcheng's CV](../assets/Pengcheng_Wang_CV.pdf)
+My current research interests center on Generative Models, with a particular focus on Large Language Models, Reinforcement Learning (Post-Training), Multimodality, and their application in Healthcare. 
+
+Welcome to connect if you would like to collaborate with me. You can find my CV here: [Pengcheng's CV](../assets/Pengcheng_Wang_CV.pdf)
