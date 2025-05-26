@@ -2,7 +2,6 @@
 title: "Decoding cortical folding patterns in marmosets using machine learning and large language model"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-01-15
 venue: 'NeuroImage'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811925000333'
