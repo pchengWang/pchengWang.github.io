@@ -6,6 +6,6 @@ date: 2025-01-15
 venue: 'NeuroImage'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811925000333'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Yue Wu, Xuesong Gao, Zhengliang Liu, Pengcheng Wang, Zihao Wu, Yiwei Li, Tuo Zhang, Tianming Liu, Tao Liu, Xiao Li, Decoding cortical folding patterns in marmosets using machine learning and large language model, NeuroImage, Volume 308, 2025'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Identification of genes with transcriptomic differences between concave and convex cortical patterns using machine learning and LLM.
